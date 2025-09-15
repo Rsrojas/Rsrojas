@@ -61,7 +61,5 @@ Skills & Tecnologías
 🔗 LinkedIn: Rodrigo Andrés Rojas Santander
 
 
-## Demo
-
-[Insert gif or link to demo](https://www.youtube.com/watch?v=u0lnzX9ecQE)
+[![Imagen de miniatura](https://img.youtube.com/vi/u0lnzX9ecQE/0.jpg)](https://www.youtube.com/watch?v=u0lnzX9ecQE)
 

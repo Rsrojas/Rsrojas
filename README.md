@@ -64,13 +64,3 @@ Youtube
 
 [![Imagen de miniatura](https://img.youtube.com/vi/u0lnzX9ecQE/0.jpg)](https://www.youtube.com/watch?v=u0lnzX9ecQE)
 
-Google Analitics
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8C4ZGLLRWB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8C4ZGLLRWB');
-</script>
